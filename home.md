@@ -1,0 +1,31 @@
+# Welcome to SavvyPlus Wiki 
+In here we will store and update all our procedures, guides and documentation and all the fun things we are working on... 
+
+
+-----
+
+
+
+## New to Savvy, start here...
+Go to our Getting Started page, then ask questions
+http://wiki.savvy.work/getting-started/getting-started 
+
+## Global view of our infrastructure
+A brief overview of our infrastructure
+http://wiki.savvy.work/aws-infrastructure/global-view-of-the-infrastructure
+
+## Shortcuts
+AWS Console - https://aws.amazon.com/console/
+Asana - https://asana.com
+Guacamole - https://access.savvy.work (internal only)
+Slack - https://savvyplusops.slack.com
+Passwords - https://passwords.savvy.work (internal only)
+
+
+
+
+
+
+
+ 
+
